@@ -1,0 +1,5 @@
+.main{
+    color: var(--name);
+    height: var(--ht);
+    background-color: green;
+}

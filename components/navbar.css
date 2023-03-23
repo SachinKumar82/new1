@@ -1,0 +1,40 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    background-color: rgb(236, 56, 56);
+    color: white;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+
+}
+
+ul li{
+    margin: 30px;
+    font-size : 20px;
+}
+.main1{
+    background: url('./img/pexels-photo-1287145.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:  500px;
+    
+}
+#mid{
+    margin-left: 90px;
+    position: absolute;
+}
+#mid h1{
+    margin-top: 90px;
+    font-size: 50px;
+    width: 300px;
+}
+#mid p{
+    width: 300px;
+    margin-top: 20px;
+}
+

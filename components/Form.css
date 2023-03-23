@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    width: 340px;
+    margin: auto;
+}
+p{
+    text-align: center;
+    margin-top: 20px;
+}
+#name{
+    width: 250px;
+    text-align: center;
+    margin-left: 20px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#month{
+    
+    width: 260px;
+    margin-left: 30px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+#day{
+    
+    width: 260px;
+    margin-left: 23px;
+    padding: 3px;
+    font-size: 20px;
+}
+#year{
+    
+    width: 260px;
+    margin-left: 25px;
+    padding: 3px;
+    font-size: 20px;
+}
+#gender{
+    margin-left: 20px;
+}
+#country{
+    margin-left: 70px;
+}
+
+#city{
+    
+    width: 260px;
+    margin-left: 45px;
+    padding: 3px;
+    font-size: 15px;
+}
